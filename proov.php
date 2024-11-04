@@ -35,4 +35,5 @@ $tekst1 = ' 	 Esmaspäev on 4.november  ';
 echo "<pre>$tekst</pre>";
 echo "<pre>".trim($tekst1)."</pre>";
 echo "<pre>".ltrim($tekst1)."</pre>";
-echo "<pre>".rtrim($tekst1)."</pre>";
+echo "<br>";
+$massiivitekst="Täiendav info õpilase kohta";

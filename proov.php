@@ -1,0 +1,38 @@
+<?php
+echo "Tere hommikust!";
+echo "<br>";
+$muutuja='PHP on skritikeel';
+echo "<strong>";
+echo $muutuja;
+echo "</strong>";
+echo "<br>";
+//Tekstifunksioonid
+echo "<h2>Tekstifunktsioonid</h2>";
+$tekst = 'Esmaspäev on 4.november';
+echo "<br>";
+echo mb_strtoupper($tekst);
+echo "<br>";
+echo strtolower($tekst);
+echo "<br>";
+echo ucwords($tekst);
+echo "<br>";
+echo "Teksti pikkus - ".strlen($tekst);
+echo "<br>";
+echo "Esimesed 5 tähte - ".substr($tekst, 0, 10);
+echo "<br>";
+$otsing="on";
+echo "On asukoht lauses on ".strpos($tekst,$otsing);
+echo "<br>";
+echo substr($tekst,0, strpos($tekst,$otsing));
+echo "<br>";
+echo substr($tekst, strpos($tekst,$otsing));
+echo "<br>";
+echo "<h2>Kasutame veebis </h2>";
+echo '<br>';
+echo "sõdane arv lauses ".str_word_count($tekst);
+echo "<br>";
+$tekst1 = ' 	 Esmaspäev on 4.november  ';
+echo "<pre>$tekst</pre>";
+echo "<pre>".trim($tekst1)."</pre>";
+echo "<pre>".ltrim($tekst1)."</pre>";
+echo "<pre>".rtrim($tekst1)."</pre>";

@@ -5,10 +5,34 @@
     <title>PHP tunnitööd</title>
 </head>
 <body>
-<h1>PHP tunnitööd</h1>
 <?php
-    include('proov.php');
-
+//päis
+include('header.php');
 ?>
+
+<?php
+// navigeerimis menüü
+include('nav.php');
+?>
+<section>
+    <?php
+    if(isset($_GET["leht"]))
+    {
+        include('content/'.$_GET["leht"]);
+    }
+    else
+    {
+        include('content/kodu.php');
+    }
+    ?>
+</section>
+<?php
+include('footer.php');
+?>
+<footer>
+    <p>&copy;Aleksandra Semjonova 2024</p>
+
+
+</footer>
 </body>
 </html>

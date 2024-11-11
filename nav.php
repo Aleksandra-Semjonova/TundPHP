@@ -2,13 +2,13 @@
 <nav>
     <ul>
         <li>
-            <a href="?leht=kodu.php">Kodu</a>
+            <a href="http://aleksandrasemjonova23.thkit.ee" target="_blank">Kodu</a>
         </li>
         <li>
-            <a href="?leht=proov.php">Tekstifunktsioonid</a>
+            <a href="?leht=kodu.php">Tekstifunktsioonid</a>
         </li>
         <li>
-            <a href="?leht=moistatud.php">Mõistatus</a>
+            <a href="?leht=proov.php">Mõistatus</a>
         </li>
         <li>
             <a href="?leht=ajafunktsioonid.php">Ajafunktsioonid</a>
@@ -19,6 +19,5 @@
         <li>
             <a href="?leht=massived.php">Masiv</a>
         </li>
-
     </ul>
 </nav>

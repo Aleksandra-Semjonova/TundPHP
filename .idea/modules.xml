@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/Tund1.iml" filepath="$PROJECT_DIR$/.idea/Tund1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/TundPHP.iml" filepath="$PROJECT_DIR$/.idea/TundPHP.iml" />
     </modules>
   </component>
 </project>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<autod>
+<auto>
+    <mark>Mazda</mark>
+    <autonumber>123ABC</autonumber>
+    <omanik>Kask</omanik>
+    <v_aasta>1999</v_aasta>
+</auto>
+<auto>
+    <mark>BMW</mark>
+    <autonumber>456DEF</autonumber>
+    <omanik>Jüri</omanik>
+    <v_aasta>2012</v_aasta>
+</auto>
+<auto>
+    <mark>Audi</mark>
+    <autonumber>789GHI</autonumber>
+    <omanik>Maria</omanik>
+    <v_aasta>2015</v_aasta>
+</auto>
+<auto>
+    <mark>Toyota</mark>
+    <autonumber>234JKL</autonumber>
+    <omanik>Andres</omanik>
+    <v_aasta>2008</v_aasta>
+</auto>
+<auto>
+    <mark>Ford</mark>
+    <autonumber>567MNO</autonumber>
+    <omanik>Anna</omanik>
+    <v_aasta>2020</v_aasta>
+</auto>
+<auto>
+    <mark>Mercedes</mark>
+    <autonumber>890PQR</autonumber>
+    <omanik>Martin</omanik>
+    <v_aasta>2018</v_aasta>
+</auto>
+<auto>
+    <mark>Honda</mark>
+    <autonumber>345STU</autonumber>
+    <omanik>Karl</omanik>
+    <v_aasta>2010</v_aasta>
+</auto>
+
+</autod>

@@ -19,5 +19,8 @@
         <li>
             <a href="?leht=massived.php">Masiv</a>
         </li>
+        <li>
+            <a href="?autodXMLfile.php" target="_blank">Autod</a>
+        </li>
     </ul>
 </nav>

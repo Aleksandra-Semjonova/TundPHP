@@ -1,0 +1,104 @@
+/* Основной стиль для ячеек */
+.user-box {
+    display: inline-block;
+    width: 200px;
+    height: 200px;
+    margin: 10px;
+    padding: 20px;
+    border: 2px solid #9e629e;
+    border-radius: 10px;
+    cursor: pointer;
+    transition: all 0.3s;
+    background-color: #efd9ff; /* Нежно-фиолетовый фон */
+    color: #9e629e;
+    font-weight: bold;
+    font-size: 0.8em;
+    text-decoration: none;
+    text-align: center;
+    line-height: 160px;
+    box-sizing: border-box;
+}
+
+/* Эффекты при наведении */
+.user-box[data-gender="Mees"]:hover {
+    background-color: #add8e6; /* Голубой для мужчин */
+    color: white;
+}
+
+.user-box[data-gender="Naine"]:hover {
+    background-color: #ffb6c1; /* Розовый для женщин */
+    color: white;
+}
+
+/* Остальные стили */
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin-top: 50px;
+    background-color: #f3f3f3; /* Светлый фон */
+}
+
+h1 {
+    font-size: 2em;
+    margin-bottom: 30px;
+    color: #9e629e;
+}
+
+.filter-form, .add-user-form, .delete-user-form {
+    margin-bottom: 30px;
+    padding: 20px;
+    background-color: #ffffff;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    max-width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+select, input {
+    padding: 10px;
+    font-size: 1em;
+    margin: 10px 0;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    width: 100%;
+    box-sizing: border-box;
+}
+
+select:focus, input:focus {
+    outline: none;
+    border-color: #9e629e;
+}
+
+input[type="submit"] {
+    background-color: #9e629e;
+    color: white;
+    border: none;
+    cursor: pointer;
+    padding: 10px 20px;
+    border-radius: 5px;
+    font-size: 1em;
+    width: 100%;
+}
+
+input[type="submit"]:hover {
+    background-color: #7b4c7b;
+}
+
+table {
+    margin: 20px auto;
+    width: 100%;
+}
+
+th, td {
+    padding: 10px;
+    text-align: left;
+}
+
+th {
+    font-weight: bold;
+}
+
+.delete-user-form select {
+    width: 100%;
+}

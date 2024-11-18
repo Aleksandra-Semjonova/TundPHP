@@ -22,5 +22,8 @@
         <li>
             <a href="?autodXMLfile.php" target="_blank">Autod</a>
         </li>
+        <li>
+            <a href="?TARpv23opilaneXMLfile.php" target="_blank">TARpv23 rühm</a>
+        </li>
     </ul>
 </nav>

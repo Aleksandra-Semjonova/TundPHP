@@ -1,103 +1,143 @@
-<?xml version="1.0" encoding="UTF-8" ?>
+<?xml version="1.0" encoding="UTF-8"?>
 <users>
     <user>
         <name>Valeria Allik</name>
         <email>ValeriaAllik23.thkit.ee</email>
         <website>https://ValeriaAllik23.thkit.ee</website>
+        <hobby>Fotograafia</hobby>
+        <gender>Naine</gender>
     </user>
     <user>
         <name>Martin Sild</name>
         <email>MartinSild23.thkit.ee</email>
         <website>https://MartinSild23.thkit.ee</website>
+        <hobby>Jalgrattasõit</hobby>
+        <gender>Mees</gender>
     </user>
     <user>
         <name>Kirill Sats</name>
         <email>KirillSats23.thkit.ee</email>
         <website>https://KirillSats23.thkit.ee</website>
+        <hobby>Muusika</hobby>
+        <gender>Mees</gender>
     </user>
     <user>
         <name>David Lennuk</name>
         <email>DavidLennuk23.thkit.ee</email>
         <website>https://DavidLennuk23.thkit.ee</website>
+        <hobby>Lugemine</hobby>
+        <gender>Mees</gender>
     </user>
     <user>
         <name>Marija Gorbunova</name>
         <email>MarijaGorbunova23.thkit.ee</email>
         <website>https://MarijaGorbunova23.thkit.ee</website>
+        <hobby>Lugemine</hobby>
+        <gender>Naine</gender>
     </user>
     <user>
         <name>Roman Sandakov</name>
         <email>RomanSandakov23.thkit.ee</email>
         <website>https://RomanSandakov23.thkit.ee</website>
+        <hobby>Videomängud</hobby>
+        <gender>Mees</gender>
     </user>
     <user>
         <name>Aleksandra Semjonova</name>
         <email>AleksandraSemjonova23.thkit.ee</email>
         <website>https://AleksandraSemjonova23.thkit.ee</website>
+        <hobby>Jooga</hobby>
+        <gender>Naine</gender>
     </user>
     <user>
         <name>Vsevolod Tsarev</name>
         <email>VsevolodTsarev23.thkit.ee</email>
         <website>https://VsevolodTsarev23.thkit.ee</website>
+        <hobby>Jalgrattasõit</hobby>
+        <gender>Mees</gender>
     </user>
     <user>
         <name>Daria Halchenko</name>
         <email>DariaHalchenko23.thkit.ee</email>
         <website>https://DariaHalchenko23.thkit.ee</website>
+        <hobby>Programmeerimine</hobby>
+        <gender>Naine</gender>
     </user>
     <user>
         <name>Bogdan Viblyy</name>
         <email>BogdanViblyy23.thkit.ee</email>
         <website>https://BogdanViblyy23.thkit.ee</website>
+        <hobby>Muusika</hobby>
+        <gender>Mees</gender>
     </user>
     <user>
         <name>Jelizaveta Ostapjuk</name>
         <email>JelizavetaOstapjuk23.thkit.ee</email>
         <website>https://JelizavetaOstapjuk23.thkit.ee</website>
+        <hobby>Fotograafia</hobby>
+        <gender>Naine</gender>
     </user>
     <user>
         <name>Anton Ivanov</name>
         <email>AntonIvanov23.thkit.ee</email>
         <website>https://AntonIvanov23.thkit.ee</website>
+        <hobby>Jooksmine</hobby>
+        <gender>Mees</gender>
     </user>
     <user>
         <name>Timur Baširov</name>
         <email>TimurBasirov23.thkit.ee</email>
         <website>https://TimurBasirov23.thkit.ee</website>
+        <hobby>Programmeerimine</hobby>
+        <gender>Mees</gender>
     </user>
     <user>
         <name>Erik Gerega</name>
         <email>ErikGerega23.thkit.ee</email>
         <website>https://ErikGerega23.thkit.ee</website>
+        <hobby>Programmeerimine</hobby>
+        <gender>Mees</gender>
     </user>
     <user>
         <name>Vladislav Kudriashev</name>
         <email>VladislavKudriashev23.thkit.ee</email>
         <website>https://VladislavKudriashev23.thkit.ee</website>
+        <hobby>Fotograafia</hobby>
+        <gender>Mees</gender>
     </user>
     <user>
         <name>Aleksander Milišenko</name>
         <email>AleksanderMilisenko23.thkit.ee</email>
         <website>https://AleksanderMilisenko23.thkit.ee</website>
+        <hobby>Jooksmine</hobby>
+        <gender>Mees</gender>
     </user>
     <user>
         <name>David Myrseth</name>
         <email>DavidMyrseth23.thkit.ee</email>
         <website>https://DavidMyrseth23.thkit.ee</website>
+        <hobby>Videomängud</hobby>
+        <gender>Mees</gender>
     </user>
     <user>
         <name>Bogdan Sergachev</name>
         <email>BogdanSergachev23.thkit.ee</email>
         <website>https://BogdanSergachev23.thkit.ee</website>
+        <hobby>Fotograafia</hobby>
+        <gender>Mees</gender>
     </user>
     <user>
         <name>Gleb Sõtšjov</name>
         <email>GlebSotsjov23.thkit.ee</email>
         <website>https://GlebSotsjov23.thkit.ee</website>
+        <hobby>Muusika</hobby>
+        <gender>Mees</gender>
     </user>
     <user>
         <name>Aleksandr Nadvornõi</name>
         <email>AleksandrNadvornoi23.thkit.ee</email>
         <website>https://AleksandrNadvornoi23.thkit.ee</website>
+        <hobby>Videomängud</hobby>
+        <gender>Mees</gender>
     </user>
 </users>

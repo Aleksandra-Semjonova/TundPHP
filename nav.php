@@ -23,7 +23,7 @@
             <a href="?autodXMLfile.php" target="_blank">Autod</a>
         </li>
         <li>
-            <a href="?TARpv23opilaneXMLfile.php" target="_blank">TARpv23 rühm</a>
+            <a href="http://localhost:63342/TundPHP/xml/TARpv23opilaneXMLfile.php?" target="_blank">TARpv23 rühm</a>
         </li>
     </ul>
 </nav>

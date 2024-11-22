@@ -25,5 +25,8 @@
         <li>
             <a href="http://localhost:63342/TundPHP/xml/TARpv23opilaneXMLfile.php?" target="_blank">TARpv23 rühm</a>
         </li>
+        <li>
+            <a href="content/andmebaas/admetabeliMatkaleht.php" target="_blank">Matka leht</a>
+        </li>
     </ul>
 </nav>

@@ -1,5 +1,5 @@
 <?php
-require ('cont2.php');
+require ('cont.php');
 global $yhendus;
 
 if(isset($_REQUEST["kustuta"])) {

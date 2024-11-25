@@ -1,0 +1,68 @@
+/* Основной фон */
+body {
+    background-color: #f1e6f1; /* Нежный фиолетовый фон */
+    font-family: Arial, sans-serif;
+}
+
+/* Оформление для элемента с id "sisu" */
+#sisu {
+    float: left;
+    background-color: #e3d0e3; /* Светло-фиолетовый фон */
+    padding: 15px;
+    margin: 10px;
+    border-radius: 5px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+/* Оформление для меню (id "meny") */
+#meny {
+    background-color: #d7b6d7; /* Еще более светлый фиолетовый */
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+/* Оформление для кнопки отправки формы */
+input[type="submit"] {
+    background-color: #c8a2d1; /* Лаванда */
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+input[type="submit"]:hover {
+    background-color: #a67cb3; /* Тёмно-фиолетовый на ховер */
+}
+
+/* Оформление для текстового поля */
+input[type="text"] {
+    background-color: #f9f1f9; /* Очень светлый фиолетовый */
+    color: #6c3f73; /* Темно-фиолетовый текст */
+    padding: 8px;
+    border: 1px solid #d0a6d0;
+    border-radius: 4px;
+    width: 100%;
+}
+
+/* Стили для списков */
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+ul li {
+    background-color: #e6d4e6;
+    margin: 5px 0;
+    padding: 10px;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+/* Оформление ссылок при наведении */
+a:hover {
+    color: #7a4e9e; /* Более насыщенный фиолетовый */
+    text-decoration: underline;
+}

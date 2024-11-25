@@ -62,8 +62,8 @@ $paring->execute();
 
 
     <form action="?" method="post">
-        <label for="loomnimi">Loomanimi:</label>
-        <input type="text" id="loomnimi" name="loomnimi" required>
+        <label for="loomanimi">Loomanimi:</label>
+        <input type="text" id="loomnaimi" name="loomanimi" required>
         <br><br>
         <label for="varv">Värv:</label>
         <input type="color" id="varv" name="varv" required>

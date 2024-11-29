@@ -29,7 +29,10 @@
             <a href="content/andmebaas/admetabeliMatkaleht.php" target="_blank">Matka leht</a>
         </li>
         <li>
-            <a href="content/andmebaas/Matkajakaupa.php" target="_blank">Matka leht</a>
+            <a href="content/andmebaas/Matkajakaupa.php" target="_blank">Matka kaub</a>
+        </li>
+        <li>
+            <a href="ulessane2/ulesanne2.php" target="_blank">Mobiilimalli</a>
         </li>
     </ul>
 </nav>

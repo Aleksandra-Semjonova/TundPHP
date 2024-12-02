@@ -1,0 +1,108 @@
+/* General page styling */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f7f7f7;
+    margin: 0;
+    padding: 0;
+    color: #333;
+}
+
+h1 {
+    text-align: center;
+    background-color: #ff6fa1;  /* Soft pink */
+    color: white;
+    padding: 20px;
+    margin: 0;
+}
+
+/* Table styling */
+table {
+    width: 80%;
+    margin: 20px auto;
+    border-collapse: collapse;
+    background-color: #ffffff;  /* White background for the table */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+table th, table td {
+    padding: 12px;
+    text-align: center;
+    border: 1px solid #ffb3c1;  /* Light pink border */
+}
+
+table th {
+    background-color: #4d94ff;  /* Soft blue for table header */
+    color: white;
+}
+
+table tr:nth-child(even) {
+    background-color: #e6f2ff;  /* Light blue background for even rows */
+}
+
+table tr:nth-child(odd) {
+    background-color: #ffe6f2;  /* Light pink background for odd rows */
+}
+
+table a {
+    text-decoration: none;
+    padding: 5px 10px;
+    background-color: #ff80bf;  /* Soft pink for links */
+    color: white;
+    border-radius: 5px;
+    transition: background-color 0.3s;
+}
+
+table a:hover {
+    background-color: #ff4081;  /* Darker pink for hover effect */
+}
+
+/* Form styling */
+form {
+    text-align: center;
+    margin: 20px;
+}
+
+form label {
+    font-size: 16px;
+    margin-right: 10px;
+}
+
+form input[type="text"] {
+    padding: 8px;
+    font-size: 14px;
+    width: 250px;
+    margin-right: 10px;
+    border-radius: 5px;
+    border: 1px solid #ffb3c1;  /* Light pink border */
+}
+
+form input[type="submit"] {
+    padding: 8px 16px;
+    font-size: 14px;
+    background-color: #4d94ff;  /* Soft blue for the button */
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+form input[type="submit"]:hover {
+    background-color: #3399ff;  /* Darker blue on hover */
+}
+
+/* Responsive design */
+@media (max-width: 768px) {
+    table {
+        width: 100%;
+    }
+
+    form {
+        margin: 10px;
+    }
+
+    form input[type="text"], form input[type="submit"] {
+        width: 100%;
+        margin-top: 10px;
+    }
+}

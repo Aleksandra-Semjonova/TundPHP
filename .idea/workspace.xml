@@ -4,33 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="71ab1b46-a5c0-40ab-9f85-d2512c0db050" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/mobiilimalli/blankett.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mobiilimalli/esmaspaev.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mobiilimalli/jalus.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mobiilimalli/kolmapaev.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mobiilimalli/kujundus.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mobiilimalli/neljapaev.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mobiilimalli/p2is.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mobiilimalli/reede.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mobiilimalli/sisselugemine.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mobiilimalli/teade2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mobiilimalli/tegija.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mobiilimalli/teisipaev.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mobiilimalli/ulesanne1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ulessane2/anekdoot1.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ulessane2/anekdoot1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ulessane2/anekdoot2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ulessane2/anekdoot3.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ulessane2/anekdoot4.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ulessane2/anekdoot4.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ulessane2/anekdoot5.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ulessane2/anekdoot5.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ulessane2/styleulesanne2.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ulessane2/ulesanne2.php" afterDir="false" />
+    <list default="true" id="0be470e5-5515-4ae3-bc45-42351370fb61" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/konkurss/KonkursPuntideLisamine.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/konkurss/conf.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/konkurss/style1.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nav.php" beforeDir="false" afterPath="$PROJECT_DIR$/nav.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +22,6 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="CSS File" />
       </list>
     </option>
@@ -54,29 +32,30 @@
   <component name="GitHubPullRequestSearchHistory"><![CDATA[{
   "lastFilter": {
     "state": "OPEN",
-    "assignee": "RipMyMartin"
+    "assignee": "Aleksandra-Semjonova"
   }
 }]]></component>
   <component name="GithubPullRequestsUISettings"><![CDATA[{
   "selectedUrlAndAccountId": {
     "url": "https://github.com/Aleksandra-Semjonova/TundPHP.git",
-    "accountId": "e4049f63-cd44-4689-b21b-56586e73bcc3"
+    "accountId": "492aac79-dc29-48f8-976a-8603c3d50c52"
   }
 }]]></component>
   <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
   <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 6
+  "customColor": "",
+  "associatedIndex": 1
 }]]></component>
-  <component name="ProjectId" id="2pVujv4ZOWe6egOYC1NxbKO5Poq" />
+  <component name="ProjectId" id="2peKGwNWuP8mpkcMIqj1tqan7dE" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/opilane/Desktop",
     "list.type.of.created.stylesheet": "CSS",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -85,19 +64,8 @@
     "nodejs_package_manager_path": "npm",
     "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
     "vue.rearranger.settings.migration": "true"
-  },
-  "keyToStringList": {
-    "DatabaseDriversLRU": [
-      "mariadb"
-    ]
   }
 }]]></component>
-  <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\opilane\Desktop\TundPHP\ulessane2" />
-      <recent name="C:\Users\opilane\Desktop\TundPHP\mobiilimalli" />
-    </key>
-  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -109,12 +77,12 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="71ab1b46-a5c0-40ab-9f85-d2512c0db050" name="Changes" comment="" />
-      <created>1732863702673</created>
+      <changelist id="0be470e5-5515-4ae3-bc45-42351370fb61" name="Changes" comment="" />
+      <created>1733121009586</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1732863702673</updated>
-      <workItem from="1732863703741" duration="14062000" />
+      <updated>1733121009586</updated>
+      <workItem from="1733121010288" duration="10046000" />
     </task>
     <servers />
   </component>

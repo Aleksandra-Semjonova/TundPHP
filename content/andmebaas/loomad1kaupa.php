@@ -1,6 +1,6 @@
 
 <?php
-require ('cont.php');
+require ('cont2.php');
 
 //kustutamine
 global $yhendus;

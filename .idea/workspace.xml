@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0be470e5-5515-4ae3-bc45-42351370fb61" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/konkurss/KonkursPuntideLisamine.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/konkurss/conf.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/konkurss/style1.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="6882a420-7f1d-4d3f-9729-7ee17b2043e6" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,24 +23,11 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "Aleksandra-Semjonova"
-  }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/Aleksandra-Semjonova/TundPHP.git",
-    "accountId": "492aac79-dc29-48f8-976a-8603c3d50c52"
-  }
-}]]></component>
   <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
   <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 1
+  "associatedIndex": 2
 }]]></component>
-  <component name="ProjectId" id="2peKGwNWuP8mpkcMIqj1tqan7dE" />
+  <component name="ProjectId" id="2ppdPkyaG25A8ZmiAc2mTkzkR7T" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -55,7 +36,7 @@
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/opilane/Desktop",
+    "last_opened_file_path": "C:/Users/opilane/Desktop/TundPHP/konkurss",
     "list.type.of.created.stylesheet": "CSS",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -64,8 +45,18 @@
     "nodejs_package_manager_path": "npm",
     "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
     "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mariadb"
+    ]
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\opilane\Desktop\TundPHP\konkurss" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -77,12 +68,12 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="0be470e5-5515-4ae3-bc45-42351370fb61" name="Changes" comment="" />
-      <created>1733121009586</created>
+      <changelist id="6882a420-7f1d-4d3f-9729-7ee17b2043e6" name="Changes" comment="" />
+      <created>1733466929213</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1733121009586</updated>
-      <workItem from="1733121010288" duration="10046000" />
+      <updated>1733466929213</updated>
+      <workItem from="1733466930119" duration="14367000" />
     </task>
     <servers />
   </component>

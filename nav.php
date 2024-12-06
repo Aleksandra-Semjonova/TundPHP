@@ -34,5 +34,8 @@
         <li>
             <a href="ulessane2/ulesanne2.php" target="_blank">Mobiilimalli</a>
         </li>
+        <li>
+            <a href="konkurss/konkursKasutaja.php" target="_blank">Konkurss</a>
+        </li>
     </ul>
 </nav>

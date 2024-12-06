@@ -1,7 +1,8 @@
 <?php
 
 global $yhendus;
-require ('conf.php');
+require ('cont2.php');
+
 
 //Konkurssi lisamine
 if (!empty($_REQUEST["uusKonkurss"])) {
@@ -13,7 +14,7 @@ if (!empty($_REQUEST["uusKonkurss"])) {
 //kommentaaride lisamine
 if(isset($_REQUEST["uusKomment"])){
     $paring=$yhendus ->prepare("update konkurss
-set kommentaarid=concat(kommentaarid,?)where id =?)");
+set kommentaarid=concat(kommentaarid,?)where id =?");
     $kommentLisa="\n".$_REQUEST["komment"];
     $paring ->bind_param('si', $kommentLisa, $_REQUEST["uusKomment"]);
     $paring -> execute();
@@ -52,6 +53,7 @@ if (isset($_REQUEST["kustuta"])) {
 <body>
 <h1>TARpv23 jõulu konkursid</h1>
 
+
 <form action="?">
     <label for="uusKonkurss">Lisa konkursi nimi</label>
     <input type="text" name="uusKonkurss" id="uusKonkurss">
@@ -79,6 +81,7 @@ if (isset($_REQUEST["kustuta"])) {
         echo "<td>".$lisamisaeg."</td>";
         echo "<td>".$punktid."</td>";
         echo "<td>".$kommentaarid."</td>";
+
         ?>
         <td>
             <form action="?">

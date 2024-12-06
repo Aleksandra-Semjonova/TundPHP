@@ -15,6 +15,30 @@ h1 {
     margin: 0;
 }
 
+
+nav ul {
+    text-align: center;
+    list-style-type: none;
+    padding: 0;
+    margin-top: 20px;
+}
+
+nav ul li {
+    display: inline-block;
+    margin: 0 20px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    padding: 10px 20px;
+    background-color: #ffb3c1;  /* Soft blue */
+    color: white;
+    border-radius: 5px;
+    transition: background-color 0.3s;
+}
+
+
+
 /* Table styling */
 table {
     width: 80%;
@@ -46,14 +70,14 @@ table tr:nth-child(odd) {
 table a {
     text-decoration: none;
     padding: 5px 10px;
-    background-color: #ff80bf;  /* Soft pink for links */
+    background-color: #ff80bf;
     color: white;
     border-radius: 5px;
     transition: background-color 0.3s;
 }
 
 table a:hover {
-    background-color: #ff4081;  /* Darker pink for hover effect */
+    background-color: #ff4081;
 }
 
 /* Form styling */

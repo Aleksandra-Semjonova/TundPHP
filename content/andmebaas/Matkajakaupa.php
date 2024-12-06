@@ -1,5 +1,5 @@
 <?php
-require ('cont.php');
+require ('cont2.php');
 
 //Kustuta osaleja
 global $yhendus;

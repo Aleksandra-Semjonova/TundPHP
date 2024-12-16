@@ -4,7 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6882a420-7f1d-4d3f-9729-7ee17b2043e6" name="Changes" comment="" />
+    <list default="true" id="d8539f72-d4ba-4bea-a828-f5755d225186" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/konkurss/cont2.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ulesanne3/conf.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ulesanne3/cont2.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ulesanne3/functions.inc.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ulesanne3/signup.inc.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,21 +21,26 @@
   <component name="ComposerSettings">
     <execution />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="CSS File" />
-      </list>
-    </option>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Aleksandra-Semjonova"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Aleksandra-Semjonova/TundPHP.git",
+    "accountId": "492aac79-dc29-48f8-976a-8603c3d50c52"
+  }
+}]]></component>
   <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 2
 }]]></component>
-  <component name="ProjectId" id="2ppdPkyaG25A8ZmiAc2mTkzkR7T" />
+  <component name="ProjectId" id="2qHsoPDUuxE0EqFy9IpJefm1kIE" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -36,24 +49,18 @@
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/opilane/Desktop/TundPHP/konkurss",
-    "list.type.of.created.stylesheet": "CSS",
+    "last_opened_file_path": "C:/Users/opilane/Desktop/TundPHP/ulesanne3",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
     "vue.rearranger.settings.migration": "true"
-  },
-  "keyToStringList": {
-    "DatabaseDriversLRU": [
-      "mariadb"
-    ]
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\opilane\Desktop\TundPHP\ulesanne3" />
       <recent name="C:\Users\opilane\Desktop\TundPHP\konkurss" />
     </key>
   </component>
@@ -68,12 +75,12 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="6882a420-7f1d-4d3f-9729-7ee17b2043e6" name="Changes" comment="" />
-      <created>1733466929213</created>
+      <changelist id="d8539f72-d4ba-4bea-a828-f5755d225186" name="Changes" comment="" />
+      <created>1734331008424</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1733466929213</updated>
-      <workItem from="1733466930119" duration="14367000" />
+      <updated>1734331008424</updated>
+      <workItem from="1734331009452" duration="7981000" />
     </task>
     <servers />
   </component>

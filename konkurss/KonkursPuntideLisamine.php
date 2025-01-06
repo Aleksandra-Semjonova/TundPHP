@@ -1,12 +1,12 @@
 <?php
 
 global $yhendus;
-require ('cont2.php');
+require ('konkurss/cont2.php');
 
 
 //Konkurssi lisamine
 if (!empty($_REQUEST["uusKonkurss"])) {
-    $paring = $yhendus -> prepare("insert into konkurss (konkursiNimi, lisamisaeg) values (?,now())");
+    $paring = $yhendus -> prepare("insert into konkurss (konkursiNimi, lisamisAeg) values (?,now())");
     $paring ->bind_param('s', $_REQUEST["uusKonkurss"]);
     $paring -> execute();
     header("Location:$_SERVER[PHP_SELF]");
@@ -71,7 +71,7 @@ if (isset($_REQUEST["kustuta"])) {
     </tr>
     <?php
     //tabeli sisu kuvamine
-    $paring = $yhendus -> prepare("Select id, konkursiNimi, lisamisaeg, punktid, kommentaarid from konkurss");
+    $paring = $yhendus -> prepare("Select id, konkursiNimi, lisamisAeg, kommentaarid, punktid from konkurss");
     $paring -> bind_result($id ,$konkurssnimi, $lisamisaeg, $punktid, $kommentaarid);
     $paring -> execute();
     while ($paring -> fetch()) {

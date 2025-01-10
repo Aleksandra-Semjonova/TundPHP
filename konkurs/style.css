@@ -1,0 +1,191 @@
+body {
+    text-align: center;
+    background: #f9faff; /* нежный голубой фон */
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+}
+
+/* menu */
+.nav {
+    font-size: 20px;
+    background: #ffd9e6; /* нежно-розовый фон */
+    padding: 12px;
+    display: inline-block;
+    border-radius: 12px;
+}
+.nav ul {
+    padding: 0;
+    margin: 0;
+}
+.nav ul li {
+    display: inline-block;
+    margin-right: 12px;
+}
+.nav ul li a {
+    color: #ffffff; /* белый цвет текста */
+    padding: 12px 18px;
+    text-decoration: none;
+    display: inline-block;
+}
+.nav ul li a:hover {
+    color: #ff80bf; /* розовый при наведении */
+}
+.nav a.active {
+    color: #ff80bf; /* активная ссылка в розовом */
+    border-radius: 5px;
+    padding: 5px 10px;
+    text-decoration: none;
+}
+
+/* konkursid menu */
+.konkursid {
+    font-size: 15px;
+    background: #e0f7fa; /* нежно-голубой фон */
+    padding: 15px;
+    border-radius: 12px;
+    border: 2px solid #b2ebf2;
+    width: 260px;
+    display: flex;
+    flex-direction: column;
+    margin: 0 auto;
+}
+
+.konkursid ul {
+    padding: 0;
+    margin: 0;
+}
+
+.konkursid ul li {
+    display: block;
+    margin-bottom: 12px;
+}
+
+.konkursid ul li a {
+    display: block;
+    color: #000000; /* чёрный цвет текста */
+    padding: 12px;
+    text-decoration: none;
+    border-radius: 8px;
+}
+
+.konkursid ul li a:hover {
+    background-color: #ff80bf; /* розовый при наведении */
+    color: white;
+}
+
+/* div */
+.konkurs-div {
+    border: 2px solid #ffd9e6; /* нежно-розовая рамка */
+    padding: 15px;
+    margin: 20px 0;
+    border-radius: 12px;
+    background-color: #f9faff; /* нежно-голубой фон */
+    width: 35%;
+    margin: 0 auto;
+}
+
+/* nuppid */
+input[type="submit"], table td a, button {
+    font-size: 16px;
+    display: inline-block;
+    width: auto;
+    padding: 8px 15px;
+    margin: 12px;
+    background-color: #ffd9e6; /* нежно-розовая кнопка */
+    color: white;
+    text-decoration: none;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+}
+
+input[type="submit"]:hover, table td a:hover, button:hover {
+    background-color: #ff80bf; /* розовая кнопка при наведении */
+}
+
+/* lisamine */
+#lisa-konkurs-vorm {
+    width: 25%;
+    margin: 20px auto;
+    padding: 25px;
+    background-color: #f9faff; /* нежно-голубой */
+    border: 2px solid #b2ebf2;
+    border-radius: 12px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+table {
+    width: 80%;
+    margin: 20px auto;
+    border: none;
+    border-radius: 8px;
+}
+
+table th {
+    background-color: #ffd9e6; /* нежно-розовый для заголовков */
+}
+
+table td, th {
+    padding: 12px;
+    border: 1px solid #b2ebf2;
+    border-radius: 8px;
+    box-sizing: border-box;
+}
+
+/* login / signup */
+.signup-form {
+    width: 25%;
+    margin: 20px auto;
+    background-color: #f9faff; /* нежно-голубой фон */
+    border: 2px solid #b2ebf2;
+    border-radius: 12px;
+    padding: 20px;
+}
+
+.signup-form input[type="text"],
+.signup-form input[type="password"] {
+    padding: 10px;
+    border: 1px solid #b2ebf2;
+    border-radius: 8px;
+    width: 100%;
+    margin: 8px 0;
+    box-sizing: border-box;
+}
+
+/* messages */
+.signup-form p {
+    color: #f44336; /* красный для ошибок */
+    text-align: center;
+}
+
+.signup-form p.success {
+    color: #4CAF50; /* зелёный для успеха */
+    text-align: center;
+}
+
+/* jalus */
+.footer-copyright {
+    font-size: 14px;
+    background: #ffd9e6; /* нежно-розовый фон */
+    margin: 0 5px;
+    padding: 8px;
+    width: auto;
+    display: inline-block;
+    text-align: center;
+    border-radius: 8px;
+}
+
+.footer-copyright p {
+    text-align: center;
+    color: #000000;
+    margin: 0;
+    padding: 0;
+}
+
+.footer-copyright p a {
+    display: inline-block;
+    color: #ffffff;
+    padding: 5px;
+    text-decoration: none;
+}
+

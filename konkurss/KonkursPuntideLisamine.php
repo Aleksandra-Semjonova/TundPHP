@@ -1,7 +1,7 @@
 <?php
 
 global $yhendus;
-require ('konkurss/cont2.php');
+require ('cont.php');
 
 
 //Konkurssi lisamine

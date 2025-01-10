@@ -4,29 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8ef45b5d-bfa5-4732-8b7c-ffd9e4fb985d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/konkurs/footer.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/konkurs/funktsioonid.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/konkurs/header.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/konkurs/highligher.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/konkurs/konkursAdminLeht.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/konkurs/konkursUserLeht.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/konkurs/konkurss1kaupa.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/konkurs/login.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/konkurs/signup.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/konkurs/user_handler/functions.inc.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/konkurs/user_handler/login.inc.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/konkurs/user_handler/logout.inc.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/konkurs/user_handler/signup.inc.php" afterDir="false" />
+    <list default="true" id="ed003d2b-8c25-4302-9ba6-280448272286" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/konkurs/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/konkurss/cont.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/konkurss/KonkursPuntideLisamine.php" beforeDir="false" afterPath="$PROJECT_DIR$/konkurss/KonkursPuntideLisamine.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/konkurss/conf.php" beforeDir="false" afterPath="$PROJECT_DIR$/konkurs/connection/cont.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/konkurss/cont2.php" beforeDir="false" afterPath="$PROJECT_DIR$/konkurs/connection/cont2.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nav.php" beforeDir="false" afterPath="$PROJECT_DIR$/nav.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ulesanne3/conf.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ulesanne3/cont2.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ulesanne3/functions.inc.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ulesanne3/signup.inc.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/konkurss/style1.css" beforeDir="false" afterPath="$PROJECT_DIR$/konkurss/style1.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,20 +26,20 @@
   <component name="GitHubPullRequestSearchHistory"><![CDATA[{
   "lastFilter": {
     "state": "OPEN",
-    "assignee": "RipMyMartin"
+    "assignee": "Aleksandra-Semjonova"
   }
 }]]></component>
   <component name="GithubPullRequestsUISettings"><![CDATA[{
   "selectedUrlAndAccountId": {
     "url": "https://github.com/Aleksandra-Semjonova/TundPHP.git",
-    "accountId": "96c45374-d4d0-450c-85ad-c4fb53bb521f"
+    "accountId": "492aac79-dc29-48f8-976a-8603c3d50c52"
   }
 }]]></component>
   <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
   <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 0
+  "associatedIndex": 6
 }]]></component>
-  <component name="ProjectId" id="2rFHL6o5muYWZ6wI9I3fdxMDdLz" />
+  <component name="ProjectId" id="2rQwpVREaCl8z3y1BSG7geMjkmC" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -77,7 +61,9 @@
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\opilane\Desktop\TundPHP\konkurss" />
-      <recent name="C:\Users\opilane\Desktop\TundPHP\konkurs\onnection" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\opilane\Desktop\TundPHP\konkurs" />
     </key>
   </component>
   <component name="SharedIndexes">
@@ -91,12 +77,12 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="8ef45b5d-bfa5-4732-8b7c-ffd9e4fb985d" name="Changes" comment="" />
-      <created>1736147843287</created>
+      <changelist id="ed003d2b-8c25-4302-9ba6-280448272286" name="Changes" comment="" />
+      <created>1736504790102</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1736147843287</updated>
-      <workItem from="1736147844331" duration="11326000" />
+      <updated>1736504790102</updated>
+      <workItem from="1736504790862" duration="7333000" />
     </task>
     <servers />
   </component>

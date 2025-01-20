@@ -32,6 +32,9 @@
             <a href="content/andmebaas/Matkajakaupa.php" target="_blank">Matka kaub</a>
         </li>
         <li>
+            <a href="ulessane2_db/pealeht.php" target="_blank">Mobiilimalli | DB</a>
+        </li>
+        <li>
             <a href="ulessane2/ulesanne2.php" target="_blank">Mobiilimalli</a>
         </li>
         <li>

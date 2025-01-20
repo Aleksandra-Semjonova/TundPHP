@@ -3,7 +3,7 @@
 <head>
     <meta name="viewport" content="width=device-width; initial-scale=1.0; maximum-scale=1.0;">
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-    <title>Anekdoot 1</title>
+    <title>Anekdoot 3</title>
     <link href="styleulesanne2.css" rel="stylesheet" type="text/css" />
 </head>
 <body>
@@ -11,17 +11,18 @@
     <div class="nav">
         <ul>
             <li><a href="ulesanne2.php">Avaleht</a></li>
-            <li><a href="anekdoot3.php">Anekdoot 2</a></li>
+            <li><a href="anekdoot3.php">Anekdoot 4</a></li>
+
         </ul>
     </div>
 </div>
 
 <div class="clear"></div>
-<h2>Anekdoot 1</h2>
+<h2>Anekdoot 3</h2>
 <p>
     <?php
-    $anekdoot = file_get_contents('anekdoot1.txt'); // Loeb anekdoodi failist
-    echo nl2br($anekdoot); // Kuva anekdoot veebilehel
+    $anekdoot = file_get_contents('anekdoot2.txt'); // Loeb anekdoodi failist
+    echo nl2br($anekdoot); // Kuvab anekdooti veebilehel
     ?>
 </p>
 
